@@ -7,20 +7,20 @@ This project aims to analyze data from Ola rides, providing insights into bookin
 
 ## Preview
 
-# 1. Overall
+### 1. Overall
 ![Project Logo](Preview/Overall.png)
 
-# 2. Vehicle Type
+### 2. Vehicle Type
 ![Project Logo](Preview/VehicleType.png)
 
-# 3. Revenue
+### 3. Revenue
 ![Project Logo](Preview/Revenue.png)
 
-# 4. Cancellation
+### 4. Cancellation
 ![Project Logo](Preview/Cancellation.png)
 
-# 5. Rating
-![Project Logo](Preview/Rating.png)
+### 5. Ratings
+![Project Logo](Preview/Ratings.png)
 
 ---
 
