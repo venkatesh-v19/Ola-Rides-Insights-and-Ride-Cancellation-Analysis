@@ -5,6 +5,25 @@ This project aims to analyze data from Ola rides, providing insights into bookin
 
 ---
 
+## Preview
+
+# 1. Overall
+![Project Logo](Preview/Overall.png)
+
+# 2. Vehicle Type
+![Project Logo](Preview/VehicleType.png)
+
+# 3. Revenue
+![Project Logo](Preview/Revenue.png)
+
+# 4. Cancellation
+![Project Logo](Preview/Cancellation.png)
+
+# 5. Rating
+![Project Logo](Preview/Rating.png)
+
+---
+
 ## Key Features
 ### SQL Analysis:
 1. **Retrieve all successful bookings**:
